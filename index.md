@@ -15,7 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<img src="/supriadiandri/supriadiandri.github.io/blob/63ea0ac27bb80cb26145896f90b98ced42f6b540/supriadiandri.png" alt="hi" class="inline"/>
 - Bulleted
 - List
 
